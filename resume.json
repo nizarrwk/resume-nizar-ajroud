@@ -200,34 +200,8 @@
   ],
   "awards": [
     {
-      "name": "[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8)",
-      "date": "2021-10-28",
-      "keywords": [
-        "Infrastructure As Code",
-        "Terraform Cloud",
-        "Terraform Modules",
-        "Terraform State"        
-      ]
-    },
-    {
-      "name": "[AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/b8d3de3e-cd45-4f05-ab0f-70e9ff777fcd/linked_in_profile)",
-      "date": "2021-06-01",
-      "keywords": [
-        "Cloud Architecture",
-        "Cloud Services",
-        "Cloud Data",
-        "AWS"        
-      ]
-    },
-    {
-      "name": "[Certified Kubernetes Administrator CKA](https://www.youracclaim.com/badges/29e046bd-29cb-4d02-8aa0-9f4d9c119e67?source=linked_in_profile)",
-      "date": "2020-12-01",
-      "keywords": [
-        "Ingress",
-        "Scheduling",
-        "Site Reliability Engineer",
-        "Helm"        
-      ]
+      "title": "[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8)",
+      "date": "2021-10-28"
     }
   ],
   "languages": [
