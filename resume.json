@@ -5,7 +5,7 @@
     "label": "Spécialiste Devops",
     "email": "nizar.ajroud@alithya.com",
     "website": "https://nizarrwk.github.io/resume-nizar-ajroud/",
-    "summary": "Plus que 12 ans d'expérience dans le domaine d'informatique et technologie numérique.\n\nMa dernière expérience ( plus que 7 ans ) était dans la conception et la réalisation des solutions Devops pour des projets stratégiques pour le groupe Orange France, impliquant la partie en amont d’architecture, les installations et config des PLI/PLA ainsi que l'usine CI/CD.\n\nCertifé [AWS](https://www.credly.com/badges/b8d3de3e-cd45-4f05-ab0f-70e9ff777fcd/linked_in_profile), [CKA](https://www.youracclaim.com/badges/29e046bd-29cb-4d02-8aa0-9f4d9c119e67?source=linked_in_profile) et [Terraform](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8).\n\nRècement j'ai integré  Alithya en tant que Spécialiste Devops.\n\nJe favorise les interactions avec l'équipe plutôt que de mettre en place des processus ou des outils pour répondre à une problématique.\n\nJe recherche le feedback des utilisateurs pour améliorer le produit et atteindre les objectifs fixés.\n\nUn challenge que je vise : passer de DevOps vers le CloudSecOps( Focus sur AWS).\n\n_Ce CV est généré via [GitHub Actions CI/CD workflow](https://github.com/nizarrwk/resume-nizar-ajroud/actions)._)",
+    "summary": "Plus que 12 ans d'expérience dans le domaine d'informatique et technologie numérique.\n\nMa dernière expérience de plus que 7 ans était dans la conception et la réalisation des solutions Devops sur des projets stratégiques pour le groupe Orange France, impliquant la partie en amont d’architecture, les installations et config des PLI/PLA ainsi que l'usine CI/CD.\n\nCertifé [AWS](https://www.credly.com/badges/b8d3de3e-cd45-4f05-ab0f-70e9ff777fcd/linked_in_profile), [CKA](https://www.youracclaim.com/badges/29e046bd-29cb-4d02-8aa0-9f4d9c119e67?source=linked_in_profile) et [Terraform](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8).\n\nRècement j'ai integré  Alithya en tant que Spécialiste Devops.\n\nJe favorise les interactions avec l'équipe plutôt que de mettre en place des processus ou des outils pour répondre à une problématique.\n\nJe recherche le feedback des utilisateurs pour améliorer le produit et atteindre les objectifs fixés.\n\nUn challenge que je vise : passer de DevOps vers le CloudSecOps( Focus sur AWS).\n\n_Ce CV est généré via [GitHub Actions CI/CD workflow](https://github.com/nizarrwk/resume-nizar-ajroud/actions)._)",
     "location": {
       "city": "Tunisie",
       "countryCode": "Tunisie"
@@ -28,7 +28,7 @@
       "company": "Alithya",
       "location": "Canada",
       "position": "Spécialiste Devops",
-      "website": "https://www.sofrecom.com/",
+      "website": "https://www.alithya.com/",
       "startDate": "2022-07-04",
       "summary": "Rècement j'ai integré  Alithya en tant que Spécialiste Devops.",
       "highlights": [
@@ -36,89 +36,87 @@
       ]
     },  
     {
-      "company": "Sofrecom Tunisia",
-      "location": "Tunisia",
-      "position": "Technical Manager",
+      "company": "Sofrecom Tunisie | Orange France",
+      "location": "Tunisie",
+      "position": "Responsable de pôle FOD/DevOps Lead",
       "website": "https://www.sofrecom.com/",
       "startDate": "2017-11-01",
 	  "endDate": "2022-05-31",
-      "summary": "In relation with the Management, I manage 4 teams RCD,AGC, PSC and BAD3 (Project Managers, Product Owners, Technical Managers, Design and Development Engineers, Exploitation Engineers) and I stimulate their performance by coordinating the projects, I support the project managers in the development of relevant technical solutions.",
+      "summary": "En relation avec la Direction, Je dirige 4 équipes Socle RCD, PSC, BAD3 et AGC(chefs de projet, Product Owners,Responsables techniques, ingénieurs étude et développement, Ingénieurs Exploitation) et je stimule leur performance en coordonnant les projets, je soutien les ingénieurs DevOps dans l'élaboration de solutions techniques/infrastructure pertinentes.",
       "highlights": [
-        "**Lead**: Animate, coordinate, develop and manage the cluster to achieve the objectives set within the strategy determined by the project leaders.",
-        "**Architecture** : Design application deployment architecture and virtual infrastructure",
-        "**Orchestration**: Orchestrate the provisioning, load balancing, dynamic configuration, monitoring and spend optimization of servers in the cloud environment.",
-        "**Monitoring**: Customize monitoring and alerting for new technologies and services",
-        "**Post-Delivery Analysis**: Perform root cause analysis of production impacting issues, including opening problem cases with vendors and driving them to conclusion.",
+        "**Lead**: diriger, animer, coordonner, développer et gèrer le Pôle pour atteindre les objectifs fixés dans le cadre de la stratégie déterminée par les chefs des projets.",
+        "**Architecture** : Design  d'infrastructure et mise en place de process de déploiment",
+        "**Monitoring**: Mise en place d'une chaine de supervision via Prometheus, Graffana etc..",
+        "**Post-Delivery Analysis**: Analyse des root causes de bugs post production et mise en place d'un process gitflow pour quick-delivery des hotfixs",
         "*AWS, Docker, Kubernetes, Helm, Nagios, Prometheus, Python, Ansible, Terraform, Jenkins, Nexus, Shell, Git, Agile*"
       ]
     },
     {
-      "company": "Sofrecom Tunisia",
+      "company": "Sofrecom Tunisie | Orange France",
       "location": "Tunisia",
       "position": "DevOps Lead | Scrum Master",
       "website": "https://www.sofrecom.com/",
       "startDate": "2015-07-01",
       "endDate": "2017-10-30",
-      "summary": "Technical coordination between the different project stakeholders: Collaboration with development teams, QA test, Releases managers, operating teams and infrastructure teams to maintain a quality level of deliverables throughout the flow deployment.",
+      "summary": "Coordination Technique entre les différents intervenants des projets: Collaboration avec les équipes de développement, de test QA, des responsables Releases, les équipes d'exploitations ainsi que les équipes d'infrastructure pour maintenir un niveau de qualité des livrables tout au long du flux de déploiement.",
       "highlights": [
-        "Recommendations and implementation of automation to the extent possible for each stage of the deliverables flow (Change Report, Merges, Deliverables Generation, Unit Testing / Integration / Acceptance, Deployment).",
-        "Implementation and management of the various functionalities of the continuous integration platform.",
-        "Documentation of all DevOps processes and practices put in place.",
-        " Animation of different scrum ceremonies.",
-        "Support of the POs on the preparation and prioritization phases of the different sprints.",
-        "Sensitization of teams and organization to the risks and management of the technical debt.",
-        "Drafting of sprint reports based on feedback from the team and relevant indicators (US burndown, team Mood, Velocity, Definition of Done, cycle time, lead time, etc.)."
+        "Recommandations et mise en oeuvre de l'automatisation dans la mesure du possible, pour chaque étape du flux de livrables (Report de modification, Merges, Génération des livrables, Tests Unitaires / Intégration /Acceptance, Déploiement).",
+        "Mise en place et gestion des différentes fonctionnalités de la plate forme d'intégration continue.",
+        "Documentation de tous les processus et pratiques DevOps, mises en place.",
+        "Animation des différentes cérémonies scrum.",
+        "Accompagnement des PO sur les phases de préparation et de priorisation des différents sprints.",
+        "Sensibilisation des équipes et de l'organisation aux risques et à la gestion de la dette technique.",
+        "Rédaction de bilans de sprint à partir des remontées de l’équipe et d’indicateurs pertinents (burndown US,Mood de l'équipe, Vélocité, Definition of Done, cycle time, lead time, etc.)."
       ]
     },
     {
       "company": "TELNET",
-      "location": "Tunisia",
-      "position": "Senior Software Engineer",
+      "location": "Tunisie",
+      "position": "Ingénieur software senior",
       "website": "https://www.groupe-telnet.com/",
       "startDate": "2013-04-01",
       "endDate": "2015-05-30",
-      "summary": "design and Implement customer requirements.",
+      "summary": "Activité de conception et de développement.",
       "highlights": [
-        "Provide estimations for new development tasks .",
-        "High and low level design for new development components.",
-        "Implementation of new components and perform unitary tests .",
-        "Prepare technical and delivery documents (Release/Delivery Note, Administration Guide and User Guide).",
+        "Participer à l'exercice de chiffrage des nouvelles tâches de développement.",
+        "Conception de haut et bas niveau pour les nouveaux briques de développement.",
+        "Implémentation de nouveaux composants et réalisation de tests unitaires.",
+        "Préparer les documents techniques et de livraison (Release / Delivery Note, Administration Guide et User Guide).",
         "*Docker, Python, Make, Jira, Confluence, GitLab, Jenkins, Agile, Shell*"
       ]
     },
     {
       "company": "TELNET",
-      "location": "Tunisia",
-      "position": "Software Engineer",
+      "location": "Tunisie",
+      "position": "Ingénieur software",
       "website": "https://www.groupe-telnet.com/",
       "startDate": "2010-08-01",
       "endDate": "2013-03-30",
-      "summary": "Design and programming desktop and Mobile applications ( Android OS)",
+      "summary": "Conception et développement des applications desktop et Mobile ( Android OS)",
       "highlights": [
-        "**Automated deployment** tests against J2EE application servers",
-        "Integrated automated tests to a Jenkins CI environment",
-        "Develop Unit Test plans",
+        "**Déploiment automatisé** mise en place d'une chaine CI/CD basé sur Jenkins",
+        "Developpement des tests unitaires",
         "*XML, Ant, Jenkins, Robot Framework, SQL, PL/SQL, Agile*"
       ]
     }
   ],
   "education": [
     {
-      "institution": "National School of computer Sciences (ENSI)",
-      "area": "ENGINEERING DIPLOMA IN COMPUTER SCIENCE",
-      "studyType": "ENGINEERING DIPLOMA",
+      "institution": "École nationale des sciences de l'informatique(ENSI)",
+      "area": "Technologies de l'information",
+      "studyType": "Diplôme d'ingénieur en informatique",
       "startDate": "2008-09-15",
       "endDate": "2010-06-01",
       "courses": [
-        "Software Engineering",
-        "Network",
-        "Information Technology"
+        "Ingénierie logiciel",
+        "Réseaux",
+        "Technologie de l'information "
       ]
     },
     {
-      "institution": "High School of computer Science and Multimedia(ISIMS)",
-      "area": "MASTER LEVEL DEGREE IN COMPUTER SCIENCE",
-      "studyType": "High School",
+      "institution": "Institut supérieur d'informatique et multimédia (ISIMS)",
+      "area": "Technologies de l'information",
+      "studyType": "Diplôme de maîtrise en informatique et multimédia",
       "startDate": "2006-09-15",
       "endDate": "2008-06-30",
       "courses": [
@@ -202,12 +200,12 @@
   ],
   "languages": [
     {
-      "language": "English",
-      "fluency": "Fluent"
+      "language": "Anglais",
+      "fluency": "niveau intermédiaire"
     },
     {
-      "language": "French",
-      "fluency": "Fluent"
+      "language": "Français",
+      "fluency": "Native"
     }
   ],
   "interests": [
@@ -219,17 +217,6 @@
         "Perseverance",
         "Mentoring",
         "Focus"
-      ]
-    },
-    {
-      "name": "Traveling",
-      "summary": "My favorite way to experience new cultures. Making and planning annual trips to different countries is a challenge I like to embrace. ",
-      "keywords": [
-        "Curiosity",
-        "Organization",
-        "Diversity",
-        "Adaptability",
-        "Awareness"
       ]
     }
   ]
