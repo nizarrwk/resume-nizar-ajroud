@@ -202,7 +202,9 @@
   "awards": [
     {
       "title": "test",
-      "date": "2021-10-28"
+      "awarder": "test",
+      "date": "2021-10-28",
+      "markdown summary":""
     }
   ],
   "languages": [
