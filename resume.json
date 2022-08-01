@@ -198,7 +198,7 @@
       ]
     }
   ],
-  "Awards": [
+  "awards": [
     {
       "name": "[HashiCorp Certified: Terraform Associate](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8)",
       "date": "2021-10-28",
