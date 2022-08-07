@@ -1,11 +1,11 @@
 {
-  "google_analytics_id": "G-BBEY1F6FJ6",
+  "google_analytics_id": "G-JR2068RTEY",
   "basics": {
-    "name": "NIZAR AJROUD ",
-    "label": "Spécialiste Devops",
-    "email": "nizar.ajroud@alithya.com",
-    "website": "https://nizarrwk.github.io/resume-nizar-ajroud/",
-    "summary": "Plus que 12 ans d'expérience dans le domaine d'informatique et technologie numérique.\n\nMa dernière expérience était avec le groupe Orange France où j'ai pris la casquette de Devops Lead pendant plus que 7 ans.\n\nCertifé [AWS](https://www.credly.com/badges/b8d3de3e-cd45-4f05-ab0f-70e9ff777fcd/linked_in_profile), [CKA](https://www.youracclaim.com/badges/29e046bd-29cb-4d02-8aa0-9f4d9c119e67?source=linked_in_profile) et [Terraform](https://www.credly.com/badges/64911168-fc30-4684-ba49-0d984fbca5e8).\n\nRècement j'ai integré  Alithya en tant que Spécialiste Devops.\n\nJe favorise les interactions avec l'équipe plutôt que de mettre en place des processus ou des outils pour répondre à une problématique.\n\nJe recherche le feedback des utilisateurs pour améliorer le produit et atteindre les objectifs fixés.\n\nUn challenge que je vise : passer de DevOps vers le CloudSecOps( Focus sur AWS).\n\n_Ce CV est généré via [GitHub Actions CI/CD workflow](https://github.com/nizarrwk/resume-nizar-ajroud/actions)._)",
+    "name": "ABIR GHORBEL ",
+    "label": "Electrotechnique- Technologie de l'éléctronique industrielle",
+    "email": "abir.ghorbel2012@gmail.com",
+    "website": "https://nizarrwk.github.io/resume-abir-ghorbel/",
+    "summary": "Plus que 7 ans d'expérience dans le domaine d'enseignement électrotechnique.\n\nLe résultat de l'étude comparative MIFI de mon diplome était Baccalauriat électrotechnique- Technologie de l'électronique industrielle .\n\nJe favorise les interactions avec l'équipe plutôt que de mettre en place des processus ou des outils pour répondre à une problématique.\n\nEtant Nouvelle arrivante au Canada ,je suis en recherche active d'un emploi dans le domaine de l'électrotechnique, électronique et automatisme sur la ville de Longueuil-Québec.",
     "location": {
       "city": "Tunisie",
       "countryCode": "Tunisie"
@@ -13,198 +13,63 @@
     "profiles": [
       {
         "network": "Linkedin",
-        "username": "nizarajroud",
-        "url": "https://www.linkedin.com/in/nizarajroud/"
-      },
-      {
-        "network": "Github",
-        "username": "@nizarrwk",
-        "url": "https://github.com/nizarrwk"
+        "username": "abir-ghorbel-b0bb00247",
+        "url": "https://www.linkedin.com/in/abir-ghorbel-b0bb00247/"
       }
     ]
   },
   "work": [
     {
-      "company": "Alithya",
-      "location": "Canada",
-      "position": "Spécialiste Devops",
-      "website": "https://www.alithya.com/",
-      "startDate": "2022-07-04",
-      "summary": "Rècement j'ai integré  Alithya en tant que Spécialiste Devops.",
-      "highlights": [
-        "*AWS, Docker, Kubernetes, Helm, Ansible, Terraform, Jenkins, Shell, Git, Agile*"
-      ]
-    },  
-    {
-      "company": "Sofrecom Tunisie | Orange France",
+      "company": "Ministère de l'éducation - Tunisie",
       "location": "Tunisie",
-      "position": "Responsable de pôle FOD/DevOps Lead",
-      "website": "https://www.sofrecom.com/",
-      "startDate": "2017-11-01",
-	  "endDate": "2022-05-31",
-      "summary": "En relation avec la Direction, Je dirige 4 équipes Socle RCD, PSC, BAD3 et AGC(chefs de projet, Product Owners,Responsables techniques, ingénieurs étude et développement, Ingénieurs Exploitation) et je stimule leur performance en coordonnant les projets, je soutien les ingénieurs DevOps dans l'élaboration de solutions techniques/infrastructure pertinentes.",
+      "position": "Professeur Principale de l'Enseignement Technique",
+      "website": "http://www.education.gov.tn/",
+      "startDate": "2015-09-15",
+      "endDate": "2022-06-30",
+      "summary": "Enseignement électrotechnique",
       "highlights": [
-        "**Lead**: diriger, animer, coordonner, développer et gèrer le Pôle pour atteindre les objectifs fixés dans le cadre de la stratégie déterminée par les chefs des projets.",
-        "**Architecture** : Design  d'infrastructure et mise en place de process de déploiment",
-        "**Monitoring**: Mise en place d'une chaine de supervision via Prometheus, Graffana etc..",
-        "**Post-Delivery Analysis**: Analyse des root causes de bugs post production et mise en place d'un process gitflow pour quick-delivery des hotfixs",
-        "*AWS, Docker, Kubernetes, Helm, Nagios, Prometheus, Python, Ansible, Terraform, Jenkins, Nexus, Shell, Git, Agile*"
-      ]
-    },
-    {
-      "company": "Sofrecom Tunisie | Orange France",
-      "location": "Tunisia",
-      "position": "DevOps Lead | Scrum Master",
-      "website": "https://www.sofrecom.com/",
-      "startDate": "2015-07-01",
-      "endDate": "2017-10-30",
-      "summary": "Coordination Technique entre les différents intervenants des projets: Collaboration avec les équipes de développement, de test QA, des responsables Releases, les équipes d'exploitations ainsi que les équipes d'infrastructure pour maintenir un niveau de qualité des livrables tout au long du flux de déploiement.",
-      "highlights": [
-        "Recommandations et mise en oeuvre de l'automatisation dans la mesure du possible, pour chaque étape du flux de livrables (Report de modification, Merges, Génération des livrables, Tests Unitaires / Intégration /Acceptance, Déploiement).",
-        "Mise en place et gestion des différentes fonctionnalités de la plate forme d'intégration continue.",
-        "Documentation de tous les processus et pratiques DevOps, mises en place.",
-        "Animation des différentes cérémonies scrum.",
-        "Accompagnement des PO sur les phases de préparation et de priorisation des différents sprints.",
-        "Sensibilisation des équipes et de l'organisation aux risques et à la gestion de la dette technique.",
-        "Rédaction de bilans de sprint à partir des remontées de l’équipe et d’indicateurs pertinents (burndown US,Mood de l'équipe, Vélocité, Definition of Done, cycle time, lead time, etc.)."
-      ]
-    },
-    {
-      "company": "TELNET",
-      "location": "Tunisie",
-      "position": "Ingénieur software senior",
-      "website": "https://www.groupe-telnet.com/",
-      "startDate": "2013-04-01",
-      "endDate": "2015-05-30",
-      "summary": "Activité de conception et de développement.",
-      "highlights": [
-        "Participer à l'exercice de chiffrage des nouvelles tâches de développement.",
-        "Conception de haut et bas niveau pour les nouveaux briques de développement.",
-        "Implémentation de nouveaux composants et réalisation de tests unitaires.",
-        "Préparer les documents techniques et de livraison (Release / Delivery Note, Administration Guide et User Guide).",
-        "*Docker, Python, Make, Jira, Confluence, GitLab, Jenkins, Agile, Shell*"
-      ]
-    },
-    {
-      "company": "TELNET",
-      "location": "Tunisie",
-      "position": "Ingénieur software",
-      "website": "https://www.groupe-telnet.com/",
-      "startDate": "2010-08-01",
-      "endDate": "2013-03-30",
-      "summary": "Conception et développement des applications desktop et Mobile ( Android OS)",
-      "highlights": [
-        "**Déploiment automatisé** mise en place d'une chaine CI/CD basé sur Jenkins",
-        "Developpement des tests unitaires",
-        "*XML, Ant, Jenkins, Robot Framework, SQL, PL/SQL, Agile*"
+        "Automatique, Robotique et informatique industrielle",
+        "Electronique de puissance et électrotechnique"
       ]
     }
   ],
   "education": [
     {
-      "institution": "École nationale des sciences de l'informatique(ENSI)",
-      "area": "Technologies de l'information",
-      "studyType": "Diplôme d'ingénieur en informatique",
-      "startDate": "2008-09-15",
-      "endDate": "2010-06-01",
+      "institution": "Ecole supérieure des sciences et techniques de Tunis",
+      "area": "Diplôme de la maîtrise des sciences et techniques en génie électrique - Spécialité Automatique et informatique industrielle",
+      "studyType": "Résultat de l'étude comparative MIFI-CANADA  : Baccalauriat électrotechnique- Technologie de l'électronique industrielle ",
+      "startDate": "2004-09-15",
+      "endDate": "2009-06-30",
       "courses": [
-        "Ingénierie logiciel",
-        "Réseaux",
-        "Technologie de l'information "
-      ]
-    },
-    {
-      "institution": "Institut supérieur d'informatique et multimédia (ISIMS)",
-      "area": "Technologies de l'information",
-      "studyType": "Diplôme de maîtrise en informatique et multimédia",
-      "startDate": "2006-09-15",
-      "endDate": "2008-06-30",
-      "courses": [
-        "Programming Languages: PHP, C, Shell",
-        "Algorithms"
+        "Automatique",
+        "informatique industrielle",
+        "électricité",
+        "électronique"
       ]
     }
   ],
   
   "skills": [
     {
-      "name": "Orchestration",
+      "name": "Informatique industrielle",
       "keywords": [
-        "Kubernetes",
-        "Docker Swarm"
+        "Automatique",
+        "Robotique",
+        "Modélisation numérique"
       ]
     },
     {
-      "name": "Cloud & PaaS Environment",
+      "name": "Electronique",
       "keywords": [
-        "AWS",
-        "GCP",
-        "Openshift",
-        "OpenStack"
-      ]
-    },
-    {
-      "name": "Cloud\nServerLess/Containers",
-      "keywords": [
-        "Lambda",
-        "API GATEWAY",
-        "ECS/EKS",
-        "FARGATE"
-      ]
-    },
-    {
-      "name": "Infra as Code and Config Mgmt",
-      "keywords": [
-        "Terraform",
-        "Ansible"
-      ]
-    },
-    {
-      "name": "Code Management",
-      "keywords": [
-        "Maven",
-        "Gradle",
-        "Grunt"
-      ]
-    },
-    {
-      "name": "Artifact Management",
-      "keywords": [
-        "Nexus",
-        "Bower",
-        "NPM"
-      ]
-    },
-    {
-      "name": "Databases/DB\nManagement",
-      "keywords": [
-        "MySQL/Aurora",
-        "Postgres SQL"
-      ]
-    },
-    {
-      "name": "Testing tools",
-      "keywords": [
-        "JUNIT",
-        "JASMINE",
-        "Karma"
-      ]
-    },
-    {
-      "name": "Monitoring/Logging",
-      "keywords": [
-        "ELK / KIBANA",
-        "Cloudwatch/CloudTrail",
-        "Prometheus / Grafana /"
+        "électrotechnique",
+        "Electronique de puissance",
+        "Traitement de signal"
       ]
     }
   ],
 
   "languages": [
-    {
-      "language": "Anglais",
-      "fluency": "niveau intermédiaire"
-    },
+   
     {
       "language": "Français",
       "fluency": "Native"
@@ -212,14 +77,10 @@
   ],
   "interests": [
     {
-      "name": "Sports",
-      "summary": "Fitness/crossfit",
-      "keywords": [
-        "Work ethic",
-        "Perseverance",
-        "Mentoring",
-        "Focus"
-      ]
+      "name": "Sports "   
+    },
+    {
+      "name": "Bénévolat "   
     }
   ]
 }
